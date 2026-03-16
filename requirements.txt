@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+transformers
+faiss-cpu
+PyPDF2
+spacy
+plotly
+pandas
+python-multipart
+python-jose
+passlib
+bcrypt
+cryptography
+pyclamd
+scikit-learn
